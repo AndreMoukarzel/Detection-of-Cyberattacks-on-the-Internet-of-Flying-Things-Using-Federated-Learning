@@ -1,4 +1,4 @@
-# Detection of Cyberattacks on the Internet of Flying Things Using Federated Learning
+# Detection of Cyberattacks on the Internet of Flying Things Using Federated Learning - Repository
  
 This projects aims to train an Itrusion Detection System (IDS) model for the Internet of Flying Things (IoFT) using Federated Learning and then compare its results with an IDS trained with regular Neural Network. The idea is to asses if the federated approach could provide accuracy comparable to the traditional NN approach, whilst providing advantages such as preserving the privacy of the data, requiring lesser data transference, and allowing processing in edge devices. For this, Several Neural Networks were trained, both in a traditional, centralized way and in a federated way and then compared.
 
